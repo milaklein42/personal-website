@@ -1,0 +1,8 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Hello World Personal Website",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'"
+  }
+}
